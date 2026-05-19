@@ -84,8 +84,7 @@ My goal is to grow into a professional developer by consistently building projec
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizMiguelH&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguelH&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LuizMiguelH&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
