@@ -81,14 +81,6 @@ My goal is to grow into a professional developer by consistently building projec
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=LuizMiguelH&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _“My focus is not just learning isolated technologies, but understanding how systems work, how data flows, and how different parts of an application work together to solve real problems.”_
